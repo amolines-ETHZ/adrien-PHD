@@ -1,5 +1,6 @@
 Hello, 
-This is the GitHub of Adrien Molines
+This is the GitHub of Adrien Molines.
+
 I am a new PhD student at ETHZ, working in the Beisert group of the ITP. I will be working mainly with my advisor, Dr. Sibylle Driezen.
 My focus will be integrability in string theory, more specifcally focusing on integrable deformations of string sigma models
 
